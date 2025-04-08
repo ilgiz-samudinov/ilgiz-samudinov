@@ -1,4 +1,6 @@
 ## Привет! Я Илгиз👋
+Java Backend Developer
+----------------------
 
 Я — увлеченный **Java Backend Developer** с опытом разработки масштабируемых и высокопроизводительных приложений. В настоящее время я прохожу стажировку в **YouTeam**, где работаю над созданием микросервисов, обработкой аутентификации и внедрением функций безопасности.
 
@@ -15,16 +17,32 @@
 - Создание безопасных и эффективных **REST API**.
 - Написание чистого, поддерживаемого кода в соответствии с лучшими практиками.
 
-### Текущие проекты:
-- **[Микросервис управления пользователями](Ссылка на GitHub)** – Разработан в рамках стажировки в YouTeam, этот проект управляет данными пользователей, профилями и аутентификацией.
-- **[Калькулятор калорий](Ссылка на GitHub)** – Личный проект для отслеживания потребляемых калорий с интеграцией логирования и аналитики.
-- **[Система регистрации](Ссылка на GitHub)** – Система регистрации пользователей с использованием Spring Security и аутентификации на основе JWT.
 
-🌱 Я сейчас стремлюсь углубить свои знания в области бэкенд-разработки и готов внести вклад в реальные проекты. Открыт к **Junior Developer ролям** и стремлюсь работать в командах, которые увлечены разработкой и созданием значимых решений.
 
-Не стесняйтесь ознакомиться с моими репозиториями и связаться, если хотите поработать вместе или просто пообщаться!
 
-📫 **Контакты**: 
-Мой профиль LinkedIn https://www.linkedin.com/in/ilgiz-samudinov-7b48b7330?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGIwX0t1EQI%2BoRWksXxXzZQ%3D%3D
-Gmail samudinov.ie@gmail.com
-Telegram @Qassda
+* 🌍  I'm based in Bishkek
+* ✉️  You can contact me at [i.samudinov@outlook.com](mailto:i.samudinov@outlook.com)
+* 🚀  I'm currently working on [Micro service user-profile](http://github.com/ilgiz-samudinov/User-Profile.git)
+* 🧠  I'm learning Kafka, Redis, WebSocket, Spring Cloud, Docker
+
+### Skills
+
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/ilgiz-samudinov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ilgiz-samudinov-7b48b7330?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJjDmuf3PQvuW1gIIMnvE%2FQ%3D%3D" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ilgiz-samudinov"><img src="https://github-readme-stats.vercel.app/api?username=ilgiz-samudinov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ilgiz-samudinov's GitHub stats" /></a>
+
+<a href="http://www.github.com/ilgiz-samudinov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilgiz-samudinov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/ilgiz-samudinov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ilgiz-samudinov&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
