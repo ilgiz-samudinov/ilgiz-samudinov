@@ -24,5 +24,7 @@
 
 Не стесняйтесь ознакомиться с моими репозиториями и связаться, если хотите поработать вместе или просто пообщаться!
 
-📫 **Контакты**: [Мой профиль LinkedIn] https://www.linkedin.com/in/ilgiz-samudinov-7b48b7330?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGIwX0t1EQI%2BoRWksXxXzZQ%3D%3D
-[Gmail] samudinov.ie@gmail.com
+📫 **Контакты**: 
+Мой профиль LinkedIn https://www.linkedin.com/in/ilgiz-samudinov-7b48b7330?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGIwX0t1EQI%2BoRWksXxXzZQ%3D%3D
+Gmail samudinov.ie@gmail.com
+Telegram @Qassda
